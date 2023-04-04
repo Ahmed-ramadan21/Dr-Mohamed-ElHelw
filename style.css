@@ -1,0 +1,746 @@
+
+body{
+  background-image: url(WhatsApp\ Image\ 2023-04-04\ at\ 14.39.23.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 130vh;
+}
+.container .img img{
+  width: 60%;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.container .top{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 50px 20px;
+}
+.container .top .text{
+  text-align: center;
+}
+.container .top .text h4{
+  padding: 10px 10px;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 30px;
+  font-weight: 800;
+  font-size: 45px;
+}
+.container .top .text p{
+  color: aliceblue;
+  font-size: 35px;
+  font-weight: 900;
+}
+.container .tabel2{
+  padding: 20px;
+}
+.container .tabel1{
+  width: 100%;
+  margin: 50px 20px;
+  border: 2px solid white;
+  margin: auto;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+}
+.container .tabel1 .ff{
+  width: 100%;
+  margin: auto;
+}
+.container .tabel1 .icon i{
+  color: aliceblue;
+
+}
+.container .tabel1 .icon{
+  width: 45%;
+  height: 50px;
+  color: aliceblue;
+  background-color: rgb(2, 127, 201);
+  text-align: center;
+  margin: 3px auto;
+  font-weight: 500;
+  font-size: 25px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  left: 39px;
+  bottom: 20px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.container .tabel1 .ff div .d1d{
+  width: 98%;
+  height: 50px;
+  background-color: aliceblue;
+  text-align: center;
+  margin: 3px auto;
+  padding-top: 10px;
+  font-weight: 800;
+  font-size: 18px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .tabel1 .ff div .d2d{
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  background-color: rgb(5, 142, 220);
+  color: aliceblue;
+  padding-top: 10px;
+}
+.container .tabel1 .ff div .d3d{
+  font-size: 15px;
+ 
+}
+.container .tabel1 .ff div .d4d{
+  font-size: 13px;
+ padding: 0;
+}
+.container .tabel1 .ff div .d4d div{
+  color: rgb(238, 5, 60);
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ 
+}
+.container .tabel1 .ff div .d5d{
+  background-color: rgb(5, 142, 220);
+  color: aliceblue;
+}
+.d8d{
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.ii{
+  font-size: 15px;
+  color: rgb(226, 8, 110);
+  font-weight: bold;
+}
+.iii{
+  position: absolute;
+  bottom: 20px;
+  left: 72%;
+}
+.iiii{
+  position: absolute;
+  bottom: 20px;
+  left: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  body{
+    background-image: url(WhatsApp\ Image\ 2023-04-04\ at\ 14.39.23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130vh;
+  }
+  .container .img img{
+    width: 55%;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  
+  .container .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 50px 20px;
+  }
+  .container .top .text{
+    text-align: center;
+  }
+  .container .top .text h4{
+    padding: 10px 10px;
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 35px;
+  }
+  .container .top .text p{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 800;
+  }
+  .container .tabel2{
+    padding: 20px;
+  }
+  .container .tabel1{
+    width: 100%;
+    margin: 50px 20px;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 40px;
+    text-align: center;
+    position: relative;
+  }
+  .container .tabel1 .ff{
+    width: 100%;
+    margin: auto;
+  }
+  .container .tabel1 .icon i{
+    color: aliceblue;
+  
+  }
+  .container .tabel1 .icon{
+    width: 44%;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(2, 127, 201);
+    text-align: center;
+    margin: 3px auto;
+    font-weight: 500;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 39px;
+    bottom: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  .container .tabel1 .ff div .d1d{
+    width: 98%;
+    height: 50px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 3px auto;
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container .tabel1 .ff div .d2d{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+    padding-top: 15px;
+  }
+  .container .tabel1 .ff div .d3d{
+    font-size: 11px;
+   
+  }
+  .container .tabel1 .ff div .d4d{
+    font-size: 11px;
+   padding: 5px;
+  }
+  .container .tabel1 .ff div .d4d div{
+    color: rgb(238, 5, 60);
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+  }
+  .container .tabel1 .ff div .d5d{
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+  }
+  .d8d{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  .ii{
+    font-size: 13px;
+    color: rgb(226, 8, 110);
+    font-weight: bold;
+  }
+  .iii{
+    position: absolute;
+    bottom: 20px;
+    left: 72%;
+  }
+  .iiii{
+    position: absolute;
+    bottom: 20px;
+    left: 2%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 992px){
+  body{
+    background-image: url(WhatsApp\ Image\ 2023-04-04\ at\ 14.39.23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170vh;
+  }
+  .container .img img{
+    width: 70%;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  .del{
+    display: none;
+  }
+  
+  .container .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 50px 20px;
+  }
+  .container .top .text{
+    text-align: center;
+  }
+  .container .top .text h4{
+    padding: 10px 10px;
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 25px;
+  }
+  .container .top .text p{
+    color: aliceblue;
+    font-size: 22px;
+    font-weight: 900;
+  }
+  .container .tabel2{
+    padding: 20px;
+  }
+  .container .tabel1{
+    width: 100%;
+    height: 126vh;
+    margin: 50px 20px;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 40px;
+    text-align: center;
+    position: relative;
+  }
+  .container .tabel1 .ff{
+    width: 100%;
+    margin: auto;
+  }
+  .container .tabel1 .icon i{
+    color: aliceblue;
+  
+  }
+  .container .tabel1 .icon{
+    width: 89%;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(2, 127, 201);
+    text-align: center;
+    margin: 3px auto;
+    font-weight: 500;
+    font-size: 28px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 39px;
+    bottom: 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  .container .tabel1 .ff div .d1d{
+    width: 98%;
+    height: 50px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 3px auto 0;
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container .tabel1 .ff div .d2d{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+    padding-top: 15px;
+  }
+  .container .tabel1 .ff div .d3d{
+    font-size: 17px;
+   
+  }
+  .container .tabel1 .ff div .d4d{
+    font-size: 14px;
+   padding: 5px;
+  }
+  .container .tabel1 .ff div .d4d div{
+    color: rgb(238, 5, 60);
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+  }
+  .container .tabel1 .ff div .d5d{
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+  }
+  .d8d{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .ii{
+    font-size: 17px;
+    color: rgb(226, 8, 110);
+    font-weight: bold;
+  }
+  .iii{
+    position: absolute;
+    bottom: 20px;
+    left: 72%;
+  }
+  .iiii{
+    position: absolute;
+    bottom: 20px;
+    left: 5%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 576px) and (max-width: 768px){
+  body{
+    background-image: url(WhatsApp\ Image\ 2023-04-04\ at\ 14.39.23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 190vh;
+  }
+  .container .img img{
+    width: 70%;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  .del{
+    display: none;
+  }
+  
+  .container .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 50px 20px;
+  }
+  .container .top .text{
+    text-align: center;
+  }
+  .container .top .text h4{
+    padding: 12px 12px;
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .container .top .text p{
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
+  .container .tabel2{
+    padding: 20px;
+  }
+  .container .tabel1{
+    width: 100%;
+    height: 126vh;
+    margin: 50px 20px;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 40px;
+    text-align: center;
+    position: relative;
+  }
+  .container .tabel1 .ff{
+    width: 100%;
+    margin: auto;
+  }
+  .container .tabel1 .icon i{
+    color: aliceblue;
+  
+  }
+  .container .tabel1 .icon{
+    width: 85%;
+    height: 50px;
+    color: aliceblue;
+    background-color: rgb(2, 127, 201);
+    text-align: center;
+    margin: 3px auto;
+    font-weight: 500;
+    font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 39px;
+    bottom: 20px;
+    padding-top: 10px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+  }
+  .container .tabel1 .ff div .d1d{
+    width: 98%;
+    height: 50px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 3px auto 0;
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container .tabel1 .ff div .d2d{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+    padding-top: 15px;
+  }
+  .container .tabel1 .ff div .d3d{
+    font-size: 13px;
+   
+  }
+  .container .tabel1 .ff div .d4d{
+    font-size: 11px;
+   padding: 5px;
+  }
+  .container .tabel1 .ff div .d4d div{
+    color: rgb(238, 5, 60);
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+  }
+  .container .tabel1 .ff div .d5d{
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+  }
+  .d8d{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .ii{
+    font-size: 13px;
+    color: rgb(226, 8, 110);
+    font-weight: bold;
+  }
+  .iii{
+    position: absolute;
+    bottom: 15px;
+    left: 72%;
+  }
+  .iiii{
+    position: absolute;
+    bottom: 15px;
+    left: 2%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and  (max-width: 576px){
+  body{
+    background-image: url(WhatsApp\ Image\ 2023-04-04\ at\ 14.39.23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160vh;
+  }
+  .container .img img{
+    width: 100%;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  .del{
+    display: none;
+  }
+  
+  .container .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 10px 20px;
+  }
+  .container .top .text{
+    text-align: center;
+  }
+  .container .top .text h4{
+    padding: 12px 12px;
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 13px;
+  }
+  .container .top .text p{
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
+  .container .tabel2{
+    padding: 10px 0;
+  }
+  .container .tabel1{
+    width: 100%;
+    height: 102vh;
+    margin: 10px 20px;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+  }
+  .container .tabel1 .ff{
+    width: 100%;
+    margin: auto;
+  }
+  .container .tabel1 .icon i{
+    color: aliceblue;
+  
+  
+  }
+  .container .tabel1 .icon{
+    width: 92%;
+    margin: auto;
+    height: 40px;
+    color: aliceblue;
+    background-color: rgb(2, 127, 201);
+    text-align: center;
+    margin: 3px auto;
+    font-weight: 500;
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    left: 4%;
+    bottom: 20px;
+    padding-top: 12px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .container .tabel1 .ff div .d1d{
+    width: 100%;
+    height: 40px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 3px auto 0;
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container .tabel1 .ff div .d2d{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+    padding-top: 15px;
+  }
+  .container .tabel1 .ff div .d3d{
+    font-size: 10px;
+   
+  }
+  .container .tabel1 .ff div .d4d{
+    font-size: 8px;
+   padding: 2px;
+  }
+  .container .tabel1 .ff div .d4d div{
+    color: rgb(238, 5, 60);
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+   
+  }
+  .container .tabel1 .ff div .d5d{
+    background-color: rgb(5, 142, 220);
+    color: aliceblue;
+  }
+  .d8d{
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .ii{
+    font-size: 10px;
+    color: rgb(226, 8, 110);
+    font-weight: bold;
+  }
+  .iii{
+    position: absolute;
+    bottom: 15px;
+    left: 72%;
+  }
+  .iiii{
+    position: absolute;
+    bottom: 15px;
+    left: 4%;
+  }
+}
